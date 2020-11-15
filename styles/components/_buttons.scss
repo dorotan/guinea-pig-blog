@@ -1,0 +1,18 @@
+input {
+    padding: 3% 4%;
+    border-radius: 10px;
+    border: 1px solid #bebebe;
+    color: #fff;
+    background-color: #919191;
+    font-size: 15px;
+    font-family: 'Oxygen', sans-serif;
+    transition: 0.3s;
+    cursor: pointer;
+    outline: none;
+}
+
+input:hover {
+    border: 1px solid #919191;
+    background-color: #fff;
+    color: #000;
+}

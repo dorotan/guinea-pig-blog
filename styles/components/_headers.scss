@@ -1,0 +1,46 @@
+$font-family: 'Oxygen', sans-serif;
+
+h1 {
+    font-size: 43px;
+    font-family: $font-family;
+}
+
+@media (max-width: 476px) {
+    h1 {
+        font-size: 24px;
+    }
+}
+
+h2 {
+    font-size: 30px;
+    font-family: $font-family;
+}
+
+@media (max-width: 476px) {
+    h2 {
+        font-size: 22px;
+    }
+}
+
+h3 {
+    font-size: 21px;
+    font-family: $font-family;
+}
+
+@media (max-width: 476px) {
+    h3 {
+        font-size: 20px;
+    }
+}
+
+h4 {
+    font-size: 19px;
+    font-family: $font-family;
+}
+
+@media (max-width: 476px) {
+    h4 {
+        font-size: 17px;
+    }
+}
+

@@ -1,0 +1,12 @@
+p {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 18px;
+}
+
+
+@media (max-width: 476px) {
+    p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+}

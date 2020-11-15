@@ -1,0 +1,15 @@
+@import 'components/buttons.scss';
+@import 'components/headers.scss';
+@import 'components/paragraphs.scss';
+@import 'components/social-buttons.scss';
+@import 'sections/header.scss';
+@import 'sections/hero.scss';
+@import 'sections/blog.scss';
+@import 'sections/footer.scss';
+@import 'sections/post.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
