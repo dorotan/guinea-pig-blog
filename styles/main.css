@@ -260,7 +260,7 @@ footer img {
 .blog-post article a, .blog-post article img, .blog-post article h3, .blog-post figure a, .blog-post figure img, .blog-post figure h3 {
   margin: 20px 0;
 }
-.blog-post article p, .blog-post figure p {
+.blog-post article p, .blog-post article blockquote, .blog-post figure p, .blog-post figure blockquote {
   margin: 20px 30px;
 }
 .blog-post article a:link, .blog-post figure a:link {
