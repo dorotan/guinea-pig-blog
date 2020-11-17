@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 70% 30%;
 
-    article {
+    article, figure {
         display: flex;
         justify-content: center;
         align-items: center;
